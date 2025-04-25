@@ -1,0 +1,59 @@
+# PowerShell
+*.ps1xml
+*.psc1
+*.psd1
+*.pssc
+*.psm1
+*.ps1
+*.ps2
+*.psc2
+*.cdxml
+*.clixml
+*.ps1xml
+*.psc1
+*.psd1
+*.pssc
+*.psm1
+*.ps1
+*.ps2
+*.psc2
+*.cdxml
+*.clixml
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Generated reports
+M365LicenseReport_*.html
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet Packages
+*.nupkg
+*.snupkg 
